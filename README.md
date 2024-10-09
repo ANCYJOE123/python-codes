@@ -1,5 +1,5 @@
-Abundant Number in C
-In this program, we need to check if a number is an Abundant number in C Programming. A number n is said to be Abundant Number to follow these condition
+Abundant Number in python
+In this program, we need to check if a number is an Abundant number. A number n is said to be Abundant Number to follow these condition
 
 The sum of its proper divisors is greater than the number itself
 The difference between these two values is called the abundance.
